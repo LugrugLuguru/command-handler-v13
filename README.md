@@ -8,15 +8,24 @@ by Nico L.
 
 
 ## Start Bot 
-▶ ```npm run bot``` Running Deploy Commands & Index
+▶ 
+```
+npm run bot
+``` Running Deploy Commands & Index
 
 
 
-```npm run index``` Only Running Index
+```
+npm run index
+``` Only Running Index
 
 
 
-```npm run deployCommands``` > Only Running Deploy Commands
+```
+npm run deployCommands
+``` > Only Running Deploy Commands
 
 ## Package Installation
-```npm i fs discord.js @discordjs/builders @discordjs/rest discord-api-types```
+```
+npm i fs discord.js @discordjs/builders @discordjs/rest discord-api-types
+```
