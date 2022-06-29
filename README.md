@@ -11,19 +11,22 @@ by Nico L.
 ▶ 
 ```
 npm run bot
-``` Running Deploy Commands & Index
+``` 
+> Running Deploy Commands & Index
 
 
 
 ```
 npm run index
-``` Only Running Index
+``` 
+> Only Running Index
 
 
 
 ```
 npm run deployCommands
-``` > Only Running Deploy Commands
+``` 
+> Only Running Deploy Commands
 
 ## Package Installation
 ```
