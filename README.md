@@ -1,7 +1,14 @@
 # command-handler-v13
 This is a Discord JS v13 Command Handler.
+
+
+Command Handler v13
 by Nico L.
 
+## Contact
+**[Discord](https://discord.gg/sJyV76utga)**
+**[Twitter](https://twitter.com/@nilasystemtweet)**
+**[Instagram](https://instagram.com/nla.insta)**
 
 
 # Use 
