@@ -15,25 +15,25 @@ by Nico L.
 
 
 ## Start Bot 
-▶ 
+▶ Running Deploy Commands & Index 
 ```
 npm run bot
 ``` 
-> Running Deploy Commands & Index
 
 
 
+▶ Only Running Index
 ```
 npm run index
 ``` 
-> Only Running Index
 
 
 
+▶ Only Running Deploy Commands
 ```
 npm run deployCommands
 ``` 
-> Only Running Deploy Commands
+
 
 ## Package Installation
 ```
