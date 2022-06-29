@@ -9,9 +9,13 @@ by Nico L.
 
 ## Start Bot 
 ▶ ```npm run bot``` Running Deploy Commands & Index
-\n
+
+
+
 ```npm run index``` Only Running Index
-\n
+
+
+
 ```npm run deployCommands``` > Only Running Deploy Commands
 
 ## Package Installation
