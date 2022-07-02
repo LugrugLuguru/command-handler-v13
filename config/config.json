@@ -1,5 +1,6 @@
 {
 	"clientId": "CLIENTID",
+	"guildId": "GUILDID",
 	"token": "BOTTOKEN"
 }
 
